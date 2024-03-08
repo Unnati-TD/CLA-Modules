@@ -15,7 +15,7 @@ Before using the script, ensure you have the following prerequisites:
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P 
+wget -P https://raw.githubusercontent.com/Unnati-TD/CLA-Modules/main/Module2/Rocky_Linux/UNNATI-CLA-ROCKY-MODULE2
 ```
 
 ### Giving Execute Permission
