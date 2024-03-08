@@ -8,7 +8,7 @@ This directory contains a script to solve a set of tasks. You can find the probl
 
 Before using the script, ensure you have the following prerequisites:
 
-- Linux-based operating system (tested on Ubuntu Linux)
+- Linux-based operating system (tested on Rocky Linux)
 
 ### Downloading the Script
 
