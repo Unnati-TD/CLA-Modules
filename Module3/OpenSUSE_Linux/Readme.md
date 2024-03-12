@@ -1,6 +1,6 @@
 # Module 3 - OpenSUSE Linux Readme
 
-This directory contains a script to solve a set of tasks. You can find the problem statements in the file named "CLA-Module3-Tasks OpenSUSE.md" or you can download the "CLA-Module1-Tasks OpenSUSE.pdf". To use the script, follow the instructions below:
+This directory contains a script to solve a set of tasks. You can find the problem statements in the file named "CLA-Module3-Tasks OpenSUSE.md" or you can download the "CLA-Module3-Tasks OpenSUSE.pdf". To use the script, follow the instructions below:
 
 ## Getting Started
 
