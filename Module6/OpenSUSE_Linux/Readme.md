@@ -15,7 +15,7 @@ Before using the script, ensure you have the following prerequisites:
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/CLA-Modules/main/Module3/OpenSUSE_Linux/UNNATI-CLA-OPENSUSE-MODULE6
+wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/CLA-Modules/main/Module6/OpenSUSE_Linux/UNNATI-CLA-OPENSUSE-MODULE6
 ```
 
 ### Giving Execute Permission
