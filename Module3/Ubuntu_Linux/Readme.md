@@ -15,7 +15,7 @@ Before using the script, ensure you have the following prerequisites:
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P https://raw.githubusercontent.com/Unnati-TD/CLA-Modules/main/Module3/Ubuntu_Linux/UNNATI-CLA-UBUNTU-MODULE3
+wget -P /usr/bin/ https://raw.githubusercontent.com/Unnati-TD/CLA-Modules/main/Module3/Ubuntu_Linux/UNNATI-CLA-UBUNTU-MODULE3
 ```
 
 ### Giving Execute Permission
